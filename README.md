@@ -4,6 +4,19 @@ This repository is created to share a solution for the challenge: `How to create
 <br>
 more info about iTextPdf is available on https://itextpdf.com and https://itextpdf.com/products/itext-core
 
+<br>
+
+## Screenshots of output
+The output of this repository
+![screenshot-two](https://github.com/rezalaki/AndroidGeneratePdf/blob/master/arts/two.jpg?raw=true)
+
+<br>
+
+The output of my personal project
+![screenshot-one](https://github.com/rezalaki/AndroidGeneratePdf/blob/master/arts/one.jpg?raw=true)
+
+<br>
+
 ## About the source
 This project contains these important files, you'd better have a look at:
 + **libs.versions.toml** and **build.gradle [app module]**: to add <ins>iTextPdf dependency</ins><br>
