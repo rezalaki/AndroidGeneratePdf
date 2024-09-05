@@ -2,7 +2,7 @@
 This repository is created to share a solution for the challenge: `How to created PDF file in android` by **iTextPdf** library. So you can clone and open it by **Android Studio**.
 
 <br>
-more info about **iTextPdf** available on https://itextpdf.com and https://itextpdf.com/products/itext-core
+more info about iTextPdf is available on https://itextpdf.com and https://itextpdf.com/products/itext-core
 
 ## About the source
 This project contains these important files, you'd better have a look at:
@@ -11,7 +11,8 @@ This project contains these important files, you'd better have a look at:
 + **Manifest**: to add READ, WRITE and MANAGE external storage permissions for different android api versions
 + **MainActivity**: to handle needed permissions to work with files, handling android api versions from 34 to 21 (at this moment)
 + **PdfGenerator**: this is the main class, which creates the PDF file
-  <br>
+
+<br>
 
 #### Main points of  PdfGenerator class
 This class contains followings:
@@ -23,6 +24,8 @@ This class contains followings:
     - **<ins>TableRow</ins>**: this is the most important element. It creates a table having only one row and spilit it based on given arguments. Texts and images are append to each cell of this row/element.
     - <ins>CustomTextCell</ins>: this element is a cell which accepts only Text in format of a Paragraph class or TextTitle or TextBody. Some attributes are customizable, such as borderWidth, borderColor, align, backgroundColor and etc
     - <ins>CustomImageCell</ins>:  this element is a cell which accepts only image. Image is given from Resources Drawables. imageFromDrawables() helper function will prepare image and pass it to our cell.
+
+<br>
 
 #### How to add elements to the document/page?
 First, we create an Element(perhaps itself includes some other elements),
