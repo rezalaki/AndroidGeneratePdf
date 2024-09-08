@@ -1,5 +1,8 @@
 # Android Pdf Generate
-This repository is created to share a solution for the challenge: `How to created PDF file in android` by **iTextPdf** library. So you can clone and open it by **Android Studio**.
+This repository is created to share a solution for the challenge `How to created PDF file in android programming`.
+<br>
+I solve it by **iTextPdf** library.
+<br>You can clone and open this repository by **Android Studio**.
 
 <br>
 more info about iTextPdf is available on https://itextpdf.com and https://itextpdf.com/products/itext-core
@@ -7,12 +10,11 @@ more info about iTextPdf is available on https://itextpdf.com and https://itextp
 <br>
 
 ## Screenshots of output
-The output of this repository
+This repository output
 <br>
 <img src="https://github.com/rezalaki/AndroidGeneratePdf/blob/master/arts/two.jpg?raw=true" alt="screenshot-two" height="650"/>
-
 <br>
-The output of my personal project
+My personal project output
 <br>
 <img src="https://github.com/rezalaki/AndroidGeneratePdf/blob/master/arts/one.jpg?raw=true" alt="screenshot-one" height="650"/>
 
