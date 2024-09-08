@@ -5,7 +5,7 @@ I solve it by **iTextPdf** library.
 <br>You can clone and open this repository by **Android Studio**.
 <br>
 <br>
-more info about iTextPdf is available on
+more info about **iTextPdf** is available on
 + https://github.com/itext/itextpdf
 + https://itextpdf.com
 + https://itextpdf.com/products/itext-core
