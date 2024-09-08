@@ -4,6 +4,7 @@ This repository is created to share a solution for the challenge `How to created
 I solve it by **iTextPdf** library.
 <br>You can clone and open this repository by **Android Studio**.
 <br>
+<br>
 more info about iTextPdf is available on
 + https://github.com/itext/itextpdf
 + https://itextpdf.com
