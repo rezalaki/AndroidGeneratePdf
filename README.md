@@ -3,9 +3,11 @@ This repository is created to share a solution for the challenge `How to created
 <br>
 I solve it by **iTextPdf** library.
 <br>You can clone and open this repository by **Android Studio**.
-
 <br>
-more info about iTextPdf is available on https://itextpdf.com and https://itextpdf.com/products/itext-core
+more info about iTextPdf is available on
++ https://github.com/itext/itextpdf
++ https://itextpdf.com
++ https://itextpdf.com/products/itext-core
 
 <br>
 
