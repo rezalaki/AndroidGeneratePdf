@@ -8,13 +8,13 @@ more info about iTextPdf is available on https://itextpdf.com and https://itextp
 
 ## Screenshots of output
 The output of this repository
-<img src="https://github.com/rezalaki/AndroidGeneratePdf/blob/master/arts/two.jpg?raw=true" alt="screenshot-two" height="550"/>
-
+<br>
+<img src="https://github.com/rezalaki/AndroidGeneratePdf/blob/master/arts/two.jpg?raw=true" alt="screenshot-two" height="650"/>
 
 <br>
-
 The output of my personal project
-![screenshot-one](https://github.com/rezalaki/AndroidGeneratePdf/blob/master/arts/one.jpg?raw=true)
+<br>
+<img src="https://github.com/rezalaki/AndroidGeneratePdf/blob/master/arts/one.jpg?raw=true" alt="screenshot-one" height="650"/>
 
 <br>
 
