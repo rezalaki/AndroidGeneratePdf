@@ -31,11 +31,11 @@ This project contains these important files, you'd better have a look at:
 #### Main points of  PdfGenerator class
 This class contains followings:
 + <ins>Fonts Object</ins>: includes two fonts styles, one for titles and the other one for normal texts. In this Object we have customized Font-Family, Size, Color and Style(bold, italic, ...)
-+ <ins>**Elements***</ins>: this inner class contains custom elements are used.
++ <ins>**Elements**</ins>: this inner class contains custom elements are used.
     - <ins>TextTitle</ins>: creates paragraph for Titles which is bigger, bold and in green color
     - <ins>TextBody</ins>: creates paragraph for normal usage
     - <ins>EmptyLine</ins>: creates a simple table with no border, in order to make some vertical spacing
-    - **<ins>TableRow</ins>***: this is the most important element. It creates a table having only one row and spilit it based on given arguments. Texts and images are append to each cell of this row/element.
+    - **<ins>TableRow</ins>**: this is the most important element. It creates a table having only one row and spilit it based on given arguments. Texts and images are append to each cell of this row/element.
     - <ins>CustomTextCell</ins>: this element is a cell which accepts only Text in format of a Paragraph class or TextTitle or TextBody. Some attributes are customizable, such as borderWidth, borderColor, align, backgroundColor and etc
     - <ins>CustomImageCell</ins>:  this element is a cell which accepts only image. Image is given from Resources Drawables. imageFromDrawables() helper function will prepare image and pass it to our cell.
 
